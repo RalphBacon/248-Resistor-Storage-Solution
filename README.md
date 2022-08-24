@@ -10,13 +10,9 @@ How to store through-hole resistors in an efficient manner?
 
 You can use a test tube. Just roll the resistors up (demoed in the video) and put them in the test tube. I have quite a lot of resistors so I used 30mm testtubes but there are cheaper ones that are a bit smaller.
 
+I show you how I label them too, and to keep the lid with the correct test tube! 
+
 Plenty to choose from, so do your research!
-
-
-
-
-More information (including all links, sketches & PDFs in my GitHub):
-
 
 ► List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
