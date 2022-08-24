@@ -1,8 +1,10 @@
 # #248 Resistor Storage Solution
 How to store through-hole resistors in an efficient manner?
 
+Also a quick update on the 8-bit shift register (with latch) project I'm working on to show error states in our Arduino projects.
+
 ![Thumbnail](https://user-images.githubusercontent.com/20911308/186482344-b6bd2c73-a1dd-4786-8f1a-2b95de9f9679.png)  
-#### See YouTube Video #245 https://
+#### See YouTube Video #245 https://youtu.be/byUu2LFlopo  
 
 [![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/185422574-52a4e7db-c680-4dd2-87be-1f1dd1db6a65.gif "PCBWay - up to 20% Discount on 4 & 6-layer PCBs")](https://pcbway.com/)  
 
