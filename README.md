@@ -7,6 +7,7 @@ Also a quick update on the 8-bit shift register (with latch) project I'm working
 #### See YouTube Video #245 https://youtu.be/byUu2LFlopo  
 
 [![PCBWayPrototype the easy way](https://user-images.githubusercontent.com/20911308/185422574-52a4e7db-c680-4dd2-87be-1f1dd1db6a65.gif "PCBWay - up to 20% Discount on 4 & 6-layer PCBs")](https://pcbway.com/)  
+►Use coupon code **PCBWay8th-RSB** to get $10 off a $40 order! Coupon lasts for THREE months. Limited number of coupons available.
 
 ### How can we store through hole resistors in an efficient way? Easy.
 
